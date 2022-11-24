@@ -21,6 +21,18 @@ include::chapter-example.adoc[]
 
 :leveloffset: -1
 
+// include::part-2.adoc[]
+
+// :leveloffset: +1
+
+// include::chapter-3.adoc[]
+
+// include::chapter-4.adoc[]
+
+// :leveloffset: -1
+
+// etc.
+
 include::appendix-a.adoc[]
 
 include::bibliography.adoc[]
