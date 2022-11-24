@@ -1,5 +1,5 @@
-= Book Title
-Dane Hillard <dane@danehillard.com>
+= A history of safe heists
+Robin Banks <robin@banks.com>
 :toc:
 :front-cover-image: images/default-cover.svg
 
