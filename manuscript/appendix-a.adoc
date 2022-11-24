@@ -1,0 +1,2 @@
+[appendix]
+= I am an appendix

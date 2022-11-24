@@ -1,0 +1,4 @@
+[bibliography]
+= Bibliography
+
+* [[[zhang2020,1]]] G. Zhang, "Specifying and Model Checking Workflows of Single Page Applications with TLA+," May 2020. [Online]. Available: arXiv https://arxiv.org/abs/2005.05627

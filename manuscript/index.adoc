@@ -1,0 +1,4 @@
+ifdef::generate-index[]
+[index]
+== Index of terms
+endif::generate-index[]

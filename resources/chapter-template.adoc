@@ -1,0 +1,16 @@
+= Chapter title
+
+This chapter covers
+
+* Doing the first thing
+* Designing the second thing
+* Composing the remaining things
+
+
+== Section title
+
+== Summary
+
+* The first thing was done
+* That second thing got designed
+* All those remaining things got composed

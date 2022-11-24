@@ -1,0 +1,28 @@
+= Book Title
+Dane Hillard <dane@danehillard.com>
+:toc:
+:front-cover-image: images/default-cover.svg
+
+include::colophon.adoc[]
+
+include::dedication.adoc[]
+
+include::part-1.adoc[]
+
+:leveloffset: +1
+
+include::chapter-example.adoc[]
+
+// include::chapter-1.adoc[]
+
+// include::chapter-2.adoc[]
+
+// etc.
+
+:leveloffset: -1
+
+include::appendix-a.adoc[]
+
+include::bibliography.adoc[]
+
+include::index.adoc[]

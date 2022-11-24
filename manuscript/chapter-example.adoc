@@ -1,0 +1,18 @@
+= An example chapter
+
+This chapter covers
+
+* Doing the first thing
+* Designing the second thing
+* Composing the remaining things
+
+
+== Section title
+
+Here's a reference to a TLA+ (((formal methods, TLA+))) article <<zhang2020>>.
+
+== Summary
+
+* The first thing was done
+* That second thing got designed
+* All those remaining things got composed

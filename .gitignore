@@ -1,0 +1,7 @@
+.bundle/
+
+manuscript/images/stem-*
+
+html/
+pdf/
+epub/
