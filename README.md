@@ -15,7 +15,7 @@ This is often a very tricky part, and I've done my best to alleviate as much pai
 1. You'll need Make.
 1. You'll need a Ruby environment. I recommend [asdf](https://asdf-vm.com/).
 1. You'll need Bundler. I like using `bundle config --local path .bundle/` to isolate the gems for the project.
-1. You'll need the prerequisites for `asciidoc-mathematical`. Follow [their instructions](https://github.com/asciidoctor/asciidoctor-mathematical#installation). You may run into a fair amount of trouble at this step on macOS with Homebrew. I ended up needing to run `brew install zstd` and then `bundle config --local build.mathematical "--with-opt-dir=/opt/homebrew/opt/zstd --with-ldflags=-L/opt/homebrew/opt/zstd/lib"` to fix the compilation of `mathematical` on macOS Mojave with M1 chip.
+1. If you want to use any equations in your content you'll need the prerequisites for `asciidoc-mathematical`. If you don't need it, you can remove it from your `Gemfile` and delete `Gemfile.lock` before installing dependencies. Otherwise, follow [their instructions](https://github.com/asciidoctor/asciidoctor-mathematical#installation). You may run into a fair amount of trouble at this step on macOS with Homebrew. I ended up needing to run `brew install zstd` and then `bundle config --local build.mathematical "--with-opt-dir=/opt/homebrew/opt/zstd --with-ldflags=-L/opt/homebrew/opt/zstd/lib"` to fix the compilation of `mathematical` on macOS Mojave with M1 chip.
 1. Create a repository from this template or otherwise make a copy of its contents.
 1. Change to the root directory of the project.
 
